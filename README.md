@@ -1,7 +1,7 @@
 # SAP S/4HANA Cloud, Public edition ABAP拡張ブートキャンプ
 
 ## 事前準備
-### Webiner 「S/4HANA Cloud, public editionの拡張オプションのご紹介」資料(2023年6月8日開催)
+### Webiner「S/4HANA Cloud, public editionの拡張オプションのご紹介」資料(2023年6月8日開催)
 1. クラウドとオンプレにおけるSAP S/4HANAのためのクラウド拡張オプションの”超”概要​
 2. SAP S/4HANA Cloud, public edition 3SLの移送管理
 ### 環境情報 (準備中)
