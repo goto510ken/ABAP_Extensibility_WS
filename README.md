@@ -4,12 +4,12 @@
 ### Webiner「S/4HANA Cloud, public editionの拡張オプションのご紹介」資料(2023年6月8日開催)
 1. [クラウドとオンプレにおけるSAP S/4HANAのためのクラウド拡張オプションの”超”概要​](Preparations/SAPS4HANApublicCloud_extensibilityOptions.pdf)
 2. [SAP S/4HANA Cloud, public edition 3SLの移送管理](Preparations/Day2_2_3SL_TransportManagement_Public_translated.pdf)
-### 環境情報 (準備中)
-### ユーザーリスト(準備中)
+
 
 ## 1日目
 ### プレゼンテーション (準備中)
 ### 演習1: [単純なABAPクラスの拡張とテスト実行](Exercise_1/DRAFT_Exercise1_developerExtensibilities.pdf)
+
 
 ## 2日目
 ### 演習2: [RAPによる簡易オンラインショップアプリの開発](Exercise_2/DRAFT_Exercise2_developerExtensibilities.pdf)
