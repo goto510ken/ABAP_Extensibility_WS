@@ -1,4 +1,4 @@
-# SAP S/4HANA Cloud, Public edition ABAP拡張ブートキャンプ
+# SAP S/4HANA Cloud, Public edition ABAP拡張ブートキャンプ (2023年7月4-5日開催)
 
 ## 事前準備
 ### Webiner「S/4HANA Cloud, public editionの拡張オプションのご紹介」資料(2023年6月8日開催)
