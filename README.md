@@ -20,5 +20,6 @@
 ### 演習3: [Side-by-Side拡張のためのカスタムAPIの開発](Exercise_3/DRAFT_Exercise3_developerExtensibilities.pdf)
 ### [理解度テスト](https://performancemanager.successfactors.eu/sf/learning?destUrl=https%3a%2f%2fsaplearninghub%2eplateau%2ecom%2flearning%2fuser%2fdeeplink%5fredirect%2ejsp%3flinkId%3dPROGRAM%5fDETAILS%26programID%3dPE%5fKB%5fS4HC%5fABAP%5fDEVS4%26fromSF%3dY&company=learninghub) 
 - 要SAP Universal IDログオン
+- 日本語/英語選択可能
 - 80%以上正解で合格&バッジ獲得
 - 何度でも受講可能
