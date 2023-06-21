@@ -1,9 +1,10 @@
 # SAP S/4HANA Cloud, Public edition ABAP拡張ブートキャンプ (2023年7月4-5日開催)
 
 ## 事前準備    
-### ご自身のPCにABAP Development Tool (ADT)のインストール     
+### 当日のセッションで利用するご自身のPCにABAP Development Tool (ADT)のインストール     
 - ADTはVersion 3.16以上であること
 - ご参考情報: [ADTインストール手順](https://developers.sap.com/tutorials/abap-install-adt.html )
+- 当日SAPジャパン社内で利用するWifiアクセスは当日ご連絡をさせていただきます。
 
 ### 未参加の方のみ: Webiner「S/4HANA Cloud, public editionの拡張オプションのご紹介」資料(2023年6月8日開催)のご確認
 1. [クラウドとオンプレにおけるSAP S/4HANAのためのクラウド拡張オプションの”超”概要​](Preparations/SAPS4HANApublicCloud_extensibilityOptions.pdf)
