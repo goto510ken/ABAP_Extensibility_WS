@@ -14,7 +14,7 @@
 
 
 ## スケジュール
-![schedule](images/Schedule_ABAPworkshop.png)
+![schedule](images/Schedule_ABAPworkshop_02.png)
 
 ## コンテンツ
 ### プレゼンテーション (準備中)
