@@ -1,0 +1,14 @@
+@EndUserText.label : 'Database table for additional save'
+@AbapCatalog.enhancement.category : #NOT_EXTENSIBLE
+@AbapCatalog.tableCategory : #TRANSPARENT
+@AbapCatalog.deliveryClass : #A
+@AbapCatalog.dataMaintenance : #RESTRICTED
+define table zshop_as_jxx {
+  key client     : abap.clnt not null;
+  key order_uuid : sysuuid_x16 not null;
+  purchasereqn   : abap.string(256);
+  purinforecord  : abap.string(256);
+  purorder       : abap.string(256);
+  costcenter     : kostl;
+
+}

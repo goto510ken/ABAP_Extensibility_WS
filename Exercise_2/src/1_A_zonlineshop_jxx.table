@@ -1,0 +1,15 @@
+@EndUserText.label : 'Shop to purchase electronics'
+@AbapCatalog.enhancement.category : #NOT_EXTENSIBLE
+@AbapCatalog.tableCategory : #TRANSPARENT
+@AbapCatalog.deliveryClass : #A
+@AbapCatalog.dataMaintenance : #RESTRICTED
+define table zonlineshop_jxx {
+  key client     : abap.clnt not null;
+  key order_uuid : sysuuid_x16 not null;
+  order_id       : abap.char(20) not null;
+  ordereditem    : abap.char(20) not null;
+  deliverydate   : abap.dats;
+  creationdate   : abap.dats;
+  pkgid          : abap.int1;
+
+}
