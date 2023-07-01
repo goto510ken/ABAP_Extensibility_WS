@@ -31,7 +31,7 @@ CLASS ZCL_SHOP_API_READ_JXX IMPLEMENTATION.
     TRY.
         " Create http client
         DATA(lo_destination) = cl_http_destination_provider=>create_by_comm_arrangement(
-                                                     comm_scenario  = 'Z_SHOP_SCENARIO_OUNTBOUND_JXX'
+                                                     comm_scenario  = 'Z_SHOP_SCENARIO_OUTBOUND_JXX'
 *                                             comm_system_id = '<Comm System Id>'
                                                      service_id     = 'Z_SHOP_API_READ_OBS_JXX_REST' ).
         lo_http_client = cl_web_http_client_manager=>create_by_http_destination( lo_destination ).
