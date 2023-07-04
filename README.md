@@ -17,7 +17,7 @@
 ![schedule](images/Schedule_ABAPworkshop_02.png)
 
 ## コンテンツ
-### プレゼンテーション (準備中)
+### [プレゼンテーション資料](Preparations/s4hc_extensibility_handsOn.pdf)
 ### 演習1: [単純なABAPクラスの拡張とテスト実行](Exercise_1/Exercise1_developerExtensibilities_update.pdf)
 ### 演習2: [RAPによる簡易オンラインショップアプリの開発](Exercise_2/Exercise2_developerExtensibilities_update.pdf)
 ### 演習3: [Side-by-Side拡張のためのカスタムAPIの開発](Exercise_3/Exercise3_developerExtensibilities_update.pdf)
