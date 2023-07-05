@@ -26,3 +26,5 @@
 - 日本語/英語選択可能
 - 80%以上正解で合格&バッジ獲得
 - 何度でも受講可能
+
+## [アンケート](https://jp.surveymonkey.com/r/ABAP_0704_0705![image](https://github.com/goto510ken/ABAP_Extensibility_WS_Japan/assets/37947140/f4c221b9-1557-4e8d-8d1d-5a76f0987e85))
