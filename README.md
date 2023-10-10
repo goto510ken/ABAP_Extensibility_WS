@@ -17,7 +17,7 @@
 ![schedule](images/Schedule_ABAPworkshop_04.png)
 
 ## コンテンツ
-### [プレゼンテーション資料]
+### プレゼンテーション資料
 ### 演習1: [単純なABAPクラスの拡張とテスト実行](Exercise_1/Exercise1_developerExtensibilities_update.pdf)
 ### 演習2: [RAPによる簡易オンラインショップアプリの開発](Exercise_2/Exercise2_developerExtensibilities_update.pdf)
 <!-- ### 演習3: [Side-by-Side拡張のためのカスタムAPIの開発](Exercise_3/Exercise3_developerExtensibilities_update.pdf)
@@ -27,4 +27,4 @@
 - 80%以上正解で合格&バッジ獲得
 - 何度でも受講可能
 -->
-## [アンケート]
+## アンケート
