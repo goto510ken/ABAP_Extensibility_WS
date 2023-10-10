@@ -19,7 +19,7 @@
 ## コンテンツ
 ### プレゼンテーション資料
 ### 演習1: [単純なABAPクラスの拡張とテスト実行](Exercise_1/Exercise1_developerExtensibilities_1031.pdf)
-### 演習2: [RAPによる簡易オンラインショップアプリの開発](Exercise_2/Exercise2_developerExtensibilities_update.pdf)
+### 演習2: [RAPによる簡易オンラインショップアプリの開発](Exercise_2/Exercise2_developerExtensibilities_1031.pdf)
 <!-- ### 演習3: [Side-by-Side拡張のためのカスタムAPIの開発](Exercise_3/Exercise3_developerExtensibilities_update.pdf)
 ### [理解度テスト](https://performancemanager.successfactors.eu/sf/learning?destUrl=https%3a%2f%2fsaplearninghub%2eplateau%2ecom%2flearning%2fuser%2fdeeplink%5fredirect%2ejsp%3flinkId%3dPROGRAM%5fDETAILS%26programID%3dPE%5fKB%5fS4HC%5fABAP%5fDEVS4%26fromSF%3dY&company=learninghub) 
 - 要SAP Universal IDもしくはSユーザーID *SAP Universal IDについては[こちら](https://www.sap.com/japan/account/universal-id.html)をご覧ください。
