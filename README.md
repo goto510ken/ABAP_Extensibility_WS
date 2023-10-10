@@ -1,4 +1,4 @@
-# SAP S/4HANA Cloud, Public edition ABAP拡張ブートキャンプ (2023年7月4-5日開催)
+# SAP S/4HANA Cloud, Public edition ABAP拡張ブートキャンプ (2023年10月31日開催)
 
 ## 事前準備    
 ### 当日のセッションで利用するご自身のPCにABAP Development Tool (ADT)のインストール     
@@ -14,17 +14,17 @@
 
 
 ## スケジュール
-![schedule](images/Schedule_ABAPworkshop_02.png)
+![schedule](images/Schedule_ABAPworkshop_03.png)
 
 ## コンテンツ
-### [プレゼンテーション資料](Preparations/s4hc_extensibility_handsOn.pdf)
+### [プレゼンテーション資料]
 ### 演習1: [単純なABAPクラスの拡張とテスト実行](Exercise_1/Exercise1_developerExtensibilities_update.pdf)
 ### 演習2: [RAPによる簡易オンラインショップアプリの開発](Exercise_2/Exercise2_developerExtensibilities_update.pdf)
-### 演習3: [Side-by-Side拡張のためのカスタムAPIの開発](Exercise_3/Exercise3_developerExtensibilities_update.pdf)
+<!-- ### 演習3: [Side-by-Side拡張のためのカスタムAPIの開発](Exercise_3/Exercise3_developerExtensibilities_update.pdf)
 ### [理解度テスト](https://performancemanager.successfactors.eu/sf/learning?destUrl=https%3a%2f%2fsaplearninghub%2eplateau%2ecom%2flearning%2fuser%2fdeeplink%5fredirect%2ejsp%3flinkId%3dPROGRAM%5fDETAILS%26programID%3dPE%5fKB%5fS4HC%5fABAP%5fDEVS4%26fromSF%3dY&company=learninghub) 
 - 要SAP Universal IDもしくはSユーザーID *SAP Universal IDについては[こちら](https://www.sap.com/japan/account/universal-id.html)をご覧ください。
 - 日本語/英語選択可能
 - 80%以上正解で合格&バッジ獲得
 - 何度でも受講可能
-
-## [アンケート](https://jp.surveymonkey.com/r/ABAP_0704_0705)
+-->
+## [アンケート]
