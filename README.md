@@ -1,4 +1,4 @@
-# SAP S/4HANA Cloud, Public edition ABAP拡張ブートキャンプ (2024年2月16日開催)
+# SAP S/4HANA Cloud, Public edition ABAP拡張ブートキャンプ (2024年11月26日開催)
 
 ## 事前準備    
 ### その１: 当日のセッションで利用するご自身のPCにABAP Development Tool (ADT)のインストール     
@@ -17,7 +17,7 @@
 ![schedule](images/schedule_ABAPWorkshop_20240216.jpg)
 
 ## コンテンツ
-### [プレゼンテーション資料](s4hc_extensibility_handsOn_20240216.pdf)
+### [プレゼンテーション資料]
 ### 演習1: [単純なABAPクラスの拡張とテスト実行](Exercise_1/Exercise1_developerExtensibilities_0216.pdf)
 ### 演習2: [RAPによる簡易オンラインショップアプリの開発](Exercise_2/Exercise2_developerExtensibilities_0216.pdf)
 <!--  ### 演習3: [Side-by-Side拡張のためのカスタムAPIの開発](Exercise_3/Exercise3_developerExtensibilities_update.pdf) -->
