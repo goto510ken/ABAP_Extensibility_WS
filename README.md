@@ -14,7 +14,7 @@
 
 
 ## 当日のスケジュール
-![schedule](images/schedule_ABAPWorkshop_20240216.jpg)
+![schedule](images/schedule_ABAPWorkshop_20241126.jpg)
 
 ## コンテンツ
 ### [プレゼンテーション資料]
