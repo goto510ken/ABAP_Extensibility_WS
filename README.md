@@ -1,4 +1,4 @@
-# SAP S/4HANA Cloud, Public edition ABAP拡張ブートキャンプ (2024年11月26日開催)
+# SAP S/4HANA Cloud Public Edition ABAP拡張ハンズオンワークショップ (2024年11月26日開催)
 
 ## 事前準備    
 ### その１: 当日のセッションで利用するご自身のPCにABAP Development Tool (ADT)のインストール     
